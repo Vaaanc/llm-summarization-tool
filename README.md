@@ -1,4 +1,4 @@
-# Streamlit App README
+# LLM Summarization Tool README
 This LLM Text Summarization tool allows you to summarize text from either a .txt or .docx file or from inputs.
 
 ## Installation
